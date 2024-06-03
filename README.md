@@ -21,8 +21,8 @@
 
 
 開始訓練:
-    1.河流:python pytorch-CycleGAN-and-pix2pix-master/train.py --dataroot ./pytorch-CycleGAN-and-pix2pix-master/datasets/ROAD_pix2pix_RI --name ROAD_pix2pix_RO --model pix2pix --direction AtoB --netG resnet_12blocks
-    2.道路:python pytorch-CycleGAN-and-pix2pix-master/train.py --dataroot ./pytorch-CycleGAN-and-pix2pix-master/datasets/ROAD_pix2pix_RO --name ROAD_pix2pix_RI --model pix2pix --direction AtoB --netG resnet_9blocks --netD n_layers --n_layers_D 6
+    1.河流:python pytorch-CycleGAN-and-pix2pix-master/train.py --dataroot ./pytorch-CycleGAN-and-pix2pix-master/datasets/ROAD_pix2pix_RI --name ROAD_pix2pix_RI --model pix2pix --direction AtoB --netG resnet_12blocks
+    2.道路:python pytorch-CycleGAN-and-pix2pix-master/train.py --dataroot ./pytorch-CycleGAN-and-pix2pix-master/datasets/ROAD_pix2pix_RO --name ROAD_pix2pix_RO --model pix2pix --direction AtoB --netG resnet_9blocks --netD n_layers --n_layers_D 6
 
 
 上傳資料處理:(運行以下程式將在主目錄生成zip上傳檔案)
