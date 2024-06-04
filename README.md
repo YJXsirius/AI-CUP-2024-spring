@@ -12,7 +12,7 @@
     6. 安裝github基本套件:pip install -r requirements.txt
 
 
-下載訓練與驗證資料:（下載完請移動到AI_cup_demo_code/datasets下）
+下載訓練與驗證資料:（請分別下載並且直接移動到AI-CUP-2024-spring/datasets下）
     Google雲端硬碟網址：https://drive.google.com/drive/folders/1MRxT6C3Ub8FMBtniSotfoHlMUbsXdvWu?usp=sharing
 
 
