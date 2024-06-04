@@ -5,7 +5,7 @@
 安裝環境:
     1. 安裝[Anaconda]:（https://www.anaconda.com/download）
     2. 进入主目錄下:D:
-                   cd D:\AI_cup_demo_code
+                   cd D:\AI-CUP-2024-spring
     3. 創建虛擬環境:conda create -n AI-CUP-2024-spring python=3.10
     4. 進入虛擬環境:conda activate AI-CUP-2024-spring
     5. 安裝Pytorch :pip install torch==1.12.1+cu116 torchvision==0.13.1+cu116 torchaudio==0.12.1 --extra-index-url https://download.pytorch.org/whl/cu116
